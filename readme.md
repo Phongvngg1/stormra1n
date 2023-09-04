@@ -1,6 +1,6 @@
 # stormra1n
 <h1 align="center">
-    <p>icloud bypass for ios 12-16(Windows Version)</p>
+    <p>icloud bypass for ios 12-16()</p>
 
 
 ![alt text](https://github.com/hackt1vator/stormra1n/blob/main/demoing.png)
